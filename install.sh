@@ -88,7 +88,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/gitfdil1248/theme/raw/main/C2.zip")
+        THEME_URL=$(echo -e "https://www.mediafire.com/file/f2ed3q66ugmt7e9/C2.zip/file?dkey=sulc83qhomv&r=1936#")
         break
         ;;
       2)
@@ -96,7 +96,7 @@ install_theme() {
         break
         ;;
       3)
-        THEME_URL=$(echo -e "https://download2270.mediafire.com/tq38fkwm6qrgpSJwxwu4vc2ZlrSj2RiKYAUwnKFWNseD812cL_602Z6IfzJxdq_4Pot8jrPJ_KBiy0DTjjoUDkgyJDdw3ugVhSrZekbuUTnychIEsrGOS6lfBt8cCc_inBPII2A70SQsZY-sszYf6u9R2daAqnF2H1RsmfC-8BT2/l5lrrahu7z59yl5/C3.zip")
+        THEME_URL=$(echo -e "https://www.mediafire.com/file/l5lrrahu7z59yl5/C3.zip?dkey=akdy2o3imv5&r=14#")
         break
         ;; 
       x)
