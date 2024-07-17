@@ -88,7 +88,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/vallzprivate/theme/raw/main/C2.zip")
+        THEME_URL=$(echo -e "https://github.com/gitfdil1248/theme/raw/main/C2.zip")
         break
         ;;
       2)
@@ -96,7 +96,7 @@ install_theme() {
         break
         ;;
       3)
-        THEME_URL=$(echo -e "https://github.com/vallzprivate/theme/raw/main/C3.zip")
+        THEME_URL=$(echo -e "https://github.com/gitfdil1248/theme/raw/main/C3.zip")
         break
         ;; 
       x)
